@@ -11,9 +11,11 @@
     </div>   
     
 </div>  
-  
+
+ ### Principais Ferramentas e Liguagens:
+ 
 <div style="displa: inline_block" ><br>
-  <img
+  <img align="center" height ="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" height ="120em" weight ="120em"src="https://user-images.githubusercontent.com/62807696/139469838-014bb8da-52c4-42ad-a0f9-7857a96fe777.png"
   </div>
   
