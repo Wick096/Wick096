@@ -1,4 +1,4 @@
-### Olá , eu Sou o Bruno de Oliveira , desenvolvedor front end iniciante e "curioso Senior", seja muito bem vindo ao meu Github!
+### Olá , me chamo Bruno de Oliveira , desenvolvedor front end iniciante e "curioso Senior", seja muito bem vindo ao meu Github!
 
 
 - 🔭 Atualmente tenho trabalhado com  projetos pessoais 
