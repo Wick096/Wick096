@@ -17,10 +17,9 @@
     
   <a href="mailto:brn9387@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target ="_blank"></a>
   
-    <img align="rigth" alt="wick-kawai" src="https://user-images.githubusercontent.com/62807696/139465993-f18cdb50-64cd-498d-8428-e4afa61bbe34.png">
+    <img align="rigth" alt="wick-kawai" src="https://user-images.githubusercontent.com/62807696/139466542-39330639-8c9f-4553-aa56-e6865fb246d6.png"/>
 </div>  
   
     
-    
-    ![download20211005123615](https://user-images.githubusercontent.com/62807696/139465993-f18cdb50-64cd-498d-8428-e4afa61bbe34.png)
+
 
