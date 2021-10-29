@@ -17,9 +17,10 @@
     
   <a href="mailto:brn9387@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target ="_blank"></a>
   
-    <img align="rigth" alt="wick-kawai" src="https://gm1.ggpht.com/aeFzwzk_rYKGOkGfi-VEJrSxuQPOCV8YJFAj3_udSdEOn0pvn3cHGzhCsZWLLWyO5RHS9K506iDPmCSggHbCaeRPDMj_wLBxGXHw83bQtYveoOOISIVgooyVwBPFbu7kbojyNvLYyyyPTi9_mG7NRRTM7kfY23iYOQ51L9kDql4HURkgbhvzZSEspXral6VQ2SUGWpSHUGiva6Na5v8BhCaXqPJ05EBhTOPUds3skmTsdpLZU6hczpt4WXmT1b-703Mr8zofsQ62wI_Hq8yy5qyRmVGyxwxHYNdrPF98Ba349QEh98bm2X1Z2BcJhmkUk63dmKR8DdM-B74XvYYkzpz1DCpfwBb-rfUIex7I3043hdzp4gdcpDOI6u1ZTcaFwnop3h0GOMKJ0q-7KKBr2tia1dd3GbcK3msxjnNeMQr6P-fCHMxZbmsb5vOm8XxQ8hBblC1jgkENsXKoruEDHLegy6qJfb-VRq8AqthN-SywQO2G8aCMPCK0fqs0-JZKAzR0psyEFuqijN3pIASJR56cxe8Rmiw1ZHpFBV6B4ZQ3-8FPepOKq4m9icjs4IZSVRXV5VzsUU2Wxu4AtOv3X8ODrck8facINXwR9hJXq2FpltmdJFNAxIpWi9FSsvp8L9Bq6RJ6ddM45zdEfEQ93LFND9-HLvnWln7ZoSn9xLBfOqprbs0MVi6-NKOVUuKeIfDC9wRW3jrY59vV04i25hNo722ndtG80Rs-q3U=s0-l75-ft-l75-ft">
+    <img align="rigth" alt="wick-kawai" src="https://user-images.githubusercontent.com/62807696/139465993-f18cdb50-64cd-498d-8428-e4afa61bbe34.png">
 </div>  
   
     
     
-    
+    ![download20211005123615](https://user-images.githubusercontent.com/62807696/139465993-f18cdb50-64cd-498d-8428-e4afa61bbe34.png)
+
