@@ -1,4 +1,4 @@
-### Olá , eu Sou o Bruno de Oliveira 👋
+### Olá , eu Sou o Bruno de Oliveira seja bem vindo ao meu Github
 
 
 - 🔭 Atualmente tenho trabalhado com  projetos pessoais 
