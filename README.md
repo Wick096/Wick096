@@ -19,6 +19,7 @@
   <img align="center" height ="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height ="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align ="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
   <img align="right" height ="120em" weight ="120em"src="https://user-images.githubusercontent.com/62807696/139469838-014bb8da-52c4-42ad-a0f9-7857a96fe777.png"
   </div>
   
