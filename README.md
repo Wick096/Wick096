@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente tenho trabalhado com  projetos pessoais 
-- 🌱Estudando Javascript ,Css ,Html e React 
+- 🌱Estudando Javascript ,Css ,Html , React e Flutter
 
 <div align="center">
   <a href="https://github.com/Wick096">
