@@ -22,7 +22,6 @@
   <img align ="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
    <img align ="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
        
- 
   </div>
   
 ##
